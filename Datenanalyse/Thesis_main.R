@@ -7,7 +7,7 @@
 # E-Mail: ***
 # Adresse: ***
 # Abgabetermin: ***
-# Betreuer: ***
+# Erstgutachter: ***
 
 
 # Folgende Libraries werden geladen. Falls nicht vorhanden installieren.
